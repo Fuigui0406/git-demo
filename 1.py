@@ -3,4 +3,6 @@ a=2
 b=1
 c=b
 d=100
-#I was changed in master branch
+#I was changed in master&dev branch
+e=123
+
