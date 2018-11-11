@@ -4,3 +4,4 @@ b=1
 c=b
 d=100
 #I was changed in dev branch
+e=123
