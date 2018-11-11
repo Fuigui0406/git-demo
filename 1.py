@@ -1,3 +1,3 @@
 a=2
-c=3
-b=c
+#change the basic
+b=1
